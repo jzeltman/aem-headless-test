@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/aem-headless-test/static/css/main.ca89a9d9.chunk.css",
+    "main.js": "/aem-headless-test/static/js/main.5289a437.chunk.js",
+    "main.js.map": "/aem-headless-test/static/js/main.5289a437.chunk.js.map",
+    "runtime-main.js": "/aem-headless-test/static/js/runtime-main.a1c92d7f.js",
+    "runtime-main.js.map": "/aem-headless-test/static/js/runtime-main.a1c92d7f.js.map",
+    "static/js/2.59413be4.chunk.js": "/aem-headless-test/static/js/2.59413be4.chunk.js",
+    "static/js/2.59413be4.chunk.js.map": "/aem-headless-test/static/js/2.59413be4.chunk.js.map",
+    "index.html": "/aem-headless-test/index.html",
+    "precache-manifest.a92f4d28e01c3fc9e9447aedf2bb4f8d.js": "/aem-headless-test/precache-manifest.a92f4d28e01c3fc9e9447aedf2bb4f8d.js",
+    "service-worker.js": "/aem-headless-test/service-worker.js",
+    "static/css/main.ca89a9d9.chunk.css.map": "/aem-headless-test/static/css/main.ca89a9d9.chunk.css.map",
+    "static/js/2.59413be4.chunk.js.LICENSE.txt": "/aem-headless-test/static/js/2.59413be4.chunk.js.LICENSE.txt",
+    "static/media/icon-close.svg": "/aem-headless-test/static/media/icon-close.f227c489.svg",
+    "static/media/icon-loading.svg": "/aem-headless-test/static/media/icon-loading.c507a81b.svg",
+    "static/media/wknd-logo-dk.svg": "/aem-headless-test/static/media/wknd-logo-dk.36593320.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1c92d7f.js",
+    "static/js/2.59413be4.chunk.js",
+    "static/css/main.ca89a9d9.chunk.css",
+    "static/js/main.5289a437.chunk.js"
+  ]
+}
